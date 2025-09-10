@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Montserrat:wght@400;700&display=swap');
+
+:root{
+  --primario: #9b2cff;
+  --secundario: #1b1b2f;
+  --accent: #ff3da7;
+  --text: #ffffff;
+}
+
+body{ font-family: 'Montserrat', sans-serif; background: linear-gradient(135deg,#2b003a 0%, #1b1b2f 100%); color:var(--text); min-height:100vh; }
+.navbar{ background: rgba(20,18,20,0.95); }
+.hero{ padding:80px 0; }
+.hero-text h1{ font-family:'Orbitron', sans-serif; font-size:3rem; letter-spacing:2px; }
+.btn-primary{ background:var(--primario); border:none; }
+#items-list .card{ background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.05); color:var(--text); }

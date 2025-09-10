@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Asistente de NLProc",
+    "description": "Automatiza clasificaci\u00f3n de textos."
+  },
+  {
+    "name": "Detector de anomal\u00edas",
+    "description": "Sistema de alertas en tiempo real."
+  },
+  {
+    "name": "Clasificador de im\u00e1genes",
+    "description": "Modelo para etiquetado autom\u00e1tico de im\u00e1genes."
+  }
+]
